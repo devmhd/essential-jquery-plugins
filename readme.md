@@ -19,7 +19,7 @@ This list is curated by [Hasin Hayder](http://hasin.me).
 
 ###Events
 [TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction.
-[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element.  
+[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element.
 [jQuery Hotkeys](https://github.com/jeresig/jquery.hotkeys): jQuery Hotkeys is a plug-in that lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination.
 
 
@@ -92,7 +92,7 @@ blurred elements over other elements.
 [FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 
 ###UI Elements - Calendar
-[CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin.
+[CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery calendar plugin.
 
 
 ###UI Elements - Images, Galleries & Photos
